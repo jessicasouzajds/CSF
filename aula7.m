@@ -1,5 +1,5 @@
-% --- SISTEMAS DE COMUNICACAO 1 ---
-% AULA 7: Conversão analógico-digital
+% --- COMUNICACAO SEM FIO ---
+% AULA 7: Canal com multipercurso
 % DIA 17/08/2018
 % Jessica de Souza
 

@@ -1,6 +1,6 @@
 % --- COMUNICACAO SEM FIO ---
 % AULA 12: Comparação de desempenho Rayleigh x AWGN
-% DIA 31/08/2018
+% DIA 04/09/2018
 % Jessica de Souza
 
 clear all;
